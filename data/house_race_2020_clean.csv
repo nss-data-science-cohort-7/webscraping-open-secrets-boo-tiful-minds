@@ -1,0 +1,896 @@
+,Candidate,Party,Vote,State,District,Incumbent,Winner,Raised,Spent
+0,Jerry Carl,R,64.9,Alabama,1,False,True,1971321,1859349
+1,James Averhart,D,35.0,Alabama,1,False,False,80095,78973
+2,Barry Moore,R,65.3,Alabama,2,False,True,650807,669368
+3,Phyllis Harvey-Hall,D,34.6,Alabama,2,False,False,56050,55988
+4,Mike D,R,67.5,Alabama,3,True,True,1193111,1218564
+5,Adia Winfrey,D,32.4,Alabama,3,False,False,50273,40971
+6,Robert B,R,82.5,Alabama,4,True,True,1255076,1323812
+7,Mo Brooks,R,95.8,Alabama,5,True,True,655365,210045
+8,Gary Palmer,R,97.1,Alabama,6,True,True,907219,909082
+9,Terri Sewell,D,97.2,Alabama,7,True,True,2168165,1495957
+10,Don Young,R,54.4,Alaska,1,True,True,1922901,1790448
+11,Alyse Galvin,I,45.3,Alaska,1,False,False,5178452,5088103
+12,Tom O'Halleran,D,51.6,Arizona,1,True,True,3381353,3324138
+13,Tiffany Shedd,R,48.4,Arizona,1,False,False,1675618,1615704
+14,Ann Kirkpatrick,D,55.1,Arizona,2,True,True,1849862,1384765
+15,Brandon Martin,R,44.9,Arizona,2,False,False,374821,381067
+16,Raul M,D,64.6,Arizona,3,True,True,843560,655507
+17,Daniel Wood,R,35.4,Arizona,3,False,False,41422,41962
+18,Paul Gosar,R,69.8,Arizona,4,True,True,622151,729892
+19,Delina DiSanto,D,30.2,Arizona,4,False,False,77168,79758
+20,Andy Biggs,R,58.9,Arizona,5,True,True,1602181,1236380
+21,Joan Greene,D,41.1,Arizona,5,False,False,356069,209789
+22,David Schweikert,R,52.2,Arizona,6,True,True,2265329,2249979
+23,Hiral Tipirneni,D,47.8,Arizona,6,False,False,6301073,6366702
+24,Tom Lewellen,I,0.0,Arizona,6,False,False,11685,11000
+25,Ruben Gallego,D,76.7,Arizona,7,True,True,1811754,1653961
+26,Josh Barnett,R,23.3,Arizona,7,False,False,28093,17883
+27,Debbie Lesko,R,59.6,Arizona,8,True,True,1605245,987453
+28,Michael Muscato,D,40.4,Arizona,8,False,False,357906,347734
+29,Greg Stanton,D,61.6,Arizona,9,True,True,2001619,1001350
+30,Dave Giles,R,38.4,Arizona,9,False,False,130480,129935
+31,Rick Crawford,R,100.0,Arkansas,1,True,True,966801,1095518
+32,French Hill,R,55.4,Arkansas,2,True,True,3384490,3020491
+33,Joyce Elliott,D,44.6,Arkansas,2,False,False,3482463,3478733
+34,Steve Womack,R,64.3,Arkansas,3,True,True,1127158,923120
+35,Celeste Williams,D,31.8,Arkansas,3,False,False,355294,355294
+36,Bruce Westerman,R,69.7,Arkansas,4,True,True,1407770,1102573
+37,William Hanson,D,27.5,Arkansas,4,False,False,109767,111683
+38,Doug LaMalfa,R,56.9,California,1,True,True,1219556,1155945
+39,Audrey Denney,D,43.1,California,1,False,False,2461769,2457661
+40,Jared Huffman,D,75.7,California,2,True,True,899419,797753
+41,Dale Mensing,R,24.3,California,2,False,False,5921,2197
+42,John Garamendi,D,54.7,California,3,True,True,1054066,667320
+43,Tamika Hamilton,R,45.3,California,3,False,False,397099,384584
+44,Tom McClintock,R,55.9,California,4,True,True,2053363,2107248
+45,Brynne Kennedy,D,44.1,California,4,False,False,3006020,3002532
+46,Mike Thompson,D,76.8,California,5,True,True,2208136,2022751
+47,Doris Matsui,D,73.4,California,6,True,True,1019605,1073529
+48,Chris Bish,R,26.6,California,6,False,False,44772,44554
+49,Ami Bera,D,56.6,California,7,True,True,1757748,1053444
+50,Buzz Patterson,R,43.4,California,7,False,False,43876,29614
+51,Jay Obernolte,R,56.1,California,8,False,True,1861647,1792064
+52,Chris Bubser,D,43.9,California,8,False,False,1858001,1856613
+53,Jerry McNerney,D,57.6,California,9,True,True,1177959,1112543
+54,Tony Amador,R,42.4,California,9,False,False,52175,52175
+55,Josh Harder,D,55.2,California,10,True,True,7400135,3950613
+56,Ted Howze,R,44.8,California,10,False,False,1426552,1721882
+57,Mark Desaulnier,D,73.0,California,11,True,True,610394,440537
+58,Nisha Sharma,R,27.0,California,11,False,False,174954,171870
+59,Nancy Pelosi,D,77.6,California,12,True,True,27359508,22064953
+60,Shahid Buttar,D,22.4,California,12,False,False,1672876,1650467
+61,Barbara Lee,D,90.4,California,13,True,True,1828213,1750142
+62,Nikka Piterman,R,9.6,California,13,False,False,9839,9904
+63,Jackie Speier,D,79.3,California,14,True,True,942934,919599
+64,Eric Swalwell,D,70.9,California,15,True,True,2807774,3977839
+65,Jim Costa,D,59.3,California,16,True,True,2135525,1835244
+66,Kevin Cookingham,R,40.7,California,16,False,False,265364,265364
+67,Ro Khanna,D,71.3,California,17,True,True,3837982,2455457
+68,Ritesh Tandon,R,28.7,California,17,False,False,175536,175015
+69,Anna Eshoo,D,63.2,California,18,True,True,2114909,2059158
+70,Rishi Kumar,D,36.8,California,18,False,False,674383,691938
+71,Zoe Lofgren,D,71.7,California,19,True,True,1755555,1731700
+72,Justin Aguilera,R,28.3,California,19,False,False,9112,11542
+73,Jimmy Panetta,D,76.8,California,20,True,True,2009894,1592671
+74,Jeff Gorman,R,23.2,California,20,False,False,67634,64947
+75,TJ Cox,D,49.6,California,21,True,False,5695157,5694005
+76,David Valadao,R,50.4,California,21,False,True,4067880,3982587
+77,Devin Nunes,R,54.2,California,22,True,True,26825212,20156093
+78,Phil Arballo,D,45.8,California,22,False,False,5091451,5062185
+79,Kevin McCarthy,R,62.1,California,23,True,True,27780644,24265583
+80,Kim Mangone,D,37.9,California,23,False,False,1671101,1665373
+81,Salud Carbajal,D,58.7,California,24,True,True,2117836,1451622
+82,Andy Caldwell,R,41.3,California,24,False,False,1298798,1268199
+83,Mike Garcia,R,50.0,California,25,False,True,9962507,9584648
+84,Christy Smith,D,50.0,California,25,False,False,5977734,5808477
+85,Julia Brownley,D,60.6,California,26,True,True,1976695,1314677
+86,Ronda Kennedy,R,39.4,California,26,False,False,246226,67208
+87,Judy Chu,D,69.8,California,27,True,True,1213706,956298
+88,Johnny Nalbandian,R,30.2,California,27,False,False,39584,39159
+89,Adam Schiff,D,72.7,California,28,True,True,19382855,10188664
+90,Eric Early,R,27.3,California,28,False,False,4085322,3790027
+91,Tony Cardenas,D,56.6,California,29,True,True,1419697,1213588
+92,Angelica Duenas,D,43.4,California,29,False,False,78083,76627
+93,Brad Sherman,D,69.5,California,30,True,True,1513374,1111826
+94,Pete Aguilar,D,61.3,California,31,True,True,2475748,1861434
+95,Agnes Gibboney,R,38.7,California,31,False,False,138687,127907
+96,Grace Napolitano,D,66.6,California,32,True,True,478426,251047
+97,Joshua Scott,R,33.4,California,32,False,False,23624,14248
+98,Ted Lieu,D,67.6,California,33,True,True,1661436,1582573
+99,James Bradley,R,32.4,California,33,False,False,78910,79035
+100,Jimmy Gomez,D,53.0,California,34,True,True,1401166,1268312
+101,David Kim,D,47.0,California,34,False,False,193430,80381
+102,Norma Torres,D,69.3,California,35,True,True,654727,664600
+103,Mike Cargile,R,30.7,California,35,False,False,36113,35915
+104,Raul Ruiz,D,60.3,California,36,True,True,2402624,1732443
+105,Erin Cruz,R,39.7,California,36,False,False,54217,53840
+106,Karen Bass,D,85.9,California,37,True,True,2216467,1202942
+107,Errol Webber,R,14.1,California,37,False,False,66398,174076
+108,Linda Sanchez,D,74.3,California,38,True,True,1246008,1140165
+109,Gil Cisneros,D,49.4,California,39,True,False,4370133,4350464
+110,Young Kim,R,50.6,California,39,False,True,6424556,6021651
+111,Lucille Roybal-Allard,D,72.7,California,40,True,True,739790,741379
+112,Antonio Delgado,R,27.3,California,40,False,False,85014,79270
+113,Mark Takano,D,64.0,California,41,True,True,1020456,949494
+114,Aja Smith,R,36.0,California,41,False,False,660658,659909
+115,Ken Calvert,R,57.1,California,42,True,True,1441812,1549113
+116,Liam O'Mara,D,42.9,California,42,False,False,130065,128782
+117,Maxine Waters,D,71.7,California,43,True,True,1836660,1906957
+118,Joe Collins,R,28.3,California,43,False,False,10556626,9921103
+119,Nanette Barragan,D,67.8,California,44,True,True,1173909,714023
+120,Katie Porter,D,53.5,California,45,True,True,16627706,6443700
+121,Greg Raths,R,46.5,California,45,False,False,1245767,1241713
+122,Lou Correa,D,68.8,California,46,True,True,1192715,650707
+123,Alan Lowenthal,D,63.3,California,47,True,True,678648,854902
+124,John Briscoe,R,36.7,California,47,False,False,25302,21538
+125,Harley Rouda,D,48.9,California,48,True,False,5968858,6174443
+126,Michelle Steel,R,51.1,California,48,False,True,6305665,6148591
+127,Mike Levin,D,53.1,California,49,True,True,3845768,2901566
+128,Brian Maryott,R,46.9,California,49,False,False,2810253,2808217
+129,Darrell Issa,R,54.0,California,50,False,True,11239670,10947106
+130,Ammar Campa-Najjar,D,46.0,California,50,False,False,6248210,6247762
+131,Juan Vargas,D,68.3,California,51,True,True,799734,801671
+132,Juan Hidalgo,R,31.7,California,51,False,False,83730,81182
+133,Scott Peters,D,61.6,California,52,True,True,1911791,2131849
+134,James Debello,R,38.4,California,52,False,False,233464,224630
+135,Sara Jacobs,D,59.5,California,53,False,True,7678363,7586186
+136,Georgette Gomez,D,40.5,California,53,False,False,1691794,1663252
+137,Diana DeGette,D,73.7,Colorado,1,True,True,1201026,1077130
+138,Joseph Neguse,D,61.5,Colorado,2,True,True,1353325,674602
+139,Charles Winn,R,35.4,Colorado,2,False,False,98338,98338
+140,Alex Johnson,I,0.0,Colorado,2,False,False,4782,4093
+141,Diane Mitsch,D,45.2,Colorado,3,False,False,5008274,4984238
+142,Lauren Boebert,R,51.4,Colorado,3,False,True,2989510,2632716
+143,Chris Milton,3,1.0,Colorado,3,False,False,12012,12012
+144,Ken Buck,R,60.1,Colorado,4,True,True,478984,539393
+145,Ike McCorkle,D,36.1,Colorado,4,False,False,369871,217398
+146,Doug Lamborn,R,57.6,Colorado,5,True,True,540712,329011
+147,Jillian Freeland,D,37.4,Colorado,5,False,False,185255,175548
+148,Rebecca Keltie,3,0.8,Colorado,5,False,False,2552,1495
+149,Jason Crow,D,57.1,Colorado,6,True,True,4136137,2892443
+150,Steven House,R,40.0,Colorado,6,False,False,1200056,1198044
+151,Jaimie Kulikowski,3,0.9,Colorado,6,False,False,72293,110645
+152,Ed Perlmutter,D,59.1,Colorado,7,True,True,1632262,1339482
+153,Casper Stockham,R,37.6,Colorado,7,False,False,147872,147872
+154,Anthony Malgieri,I,0.0,Colorado,7,False,False,1930,1958
+155,John Larson,D,63.7,Connecticut,1,True,True,1377238,1323690
+156,Mary Fay,R,35.0,Connecticut,1,False,False,26836,25118
+157,Joe Courtney,D,59.4,Connecticut,2,True,True,964731,999360
+158,Justin Anderson,R,38.2,Connecticut,2,False,False,80227,78767
+159,Rosa DeLauro,D,58.7,Connecticut,3,True,True,1938999,1795635
+160,Margaret Streicker,R,39.8,Connecticut,3,False,False,1839080,1835385
+161,Justin Paglino,3,1.5,Connecticut,3,False,False,29200,28670
+162,Jim Himes,D,62.3,Connecticut,4,True,True,1612935,2180029
+163,Jonathan Riddle,R,36.2,Connecticut,4,False,False,31591,17385
+164,Jahana Hayes,D,55.1,Connecticut,5,True,True,2037826,1564685
+165,David Sullivan,R,43.5,Connecticut,5,False,False,397395,397370
+166,Lisa Blunt,D,57.6,Delaware,1,True,True,2024201,1305618
+167,Lee Murphy,R,40.2,Delaware,1,False,False,131394,131862
+168,Catherine Purcell,I,1.4,Delaware,1,False,False,5344,5103
+169,Matt Gaetz,R,64.6,Florida,1,True,True,5946646,4482782
+170,Phil Ehr,D,34.0,Florida,1,False,False,2025099,1900451
+171,Bert Oram,I,1.4,Florida,1,False,False,8108,7070
+172,Neal Dunn,R,98.0,Florida,2,True,True,653488,637580
+173,Kristy Thripp,I,0.0,Florida,2,False,False,145,145
+174,Kat Cammack,R,57.1,Florida,3,False,True,1122188,1090334
+175,Adam Christensen,D,42.9,Florida,3,False,False,216021,219108
+176,John Rutherford,R,61.1,Florida,4,True,True,1024912,1283701
+177,Donna Deegan,D,38.9,Florida,4,False,False,1013157,1013157
+178,Al Lawson,D,65.1,Florida,5,True,True,848498,695779
+179,Gary Adler,R,34.9,Florida,5,False,False,146909,146909
+180,Michael Waltz,R,60.6,Florida,6,True,True,2549667,1716768
+181,Clint Curtis,D,39.4,Florida,6,False,False,24310,22251
+182,Gerry Nolan,I,0.0,Florida,6,False,False,4467,5256
+183,Stephanie Murphy,D,55.3,Florida,7,True,True,3124692,1798549
+184,Leo Valentin,R,43.2,Florida,7,False,False,1045426,1031316
+185,Bill Garlington,I,1.4,Florida,7,False,False,11000,0
+186,Bill Posey,R,61.4,Florida,8,True,True,985268,1121834
+187,James Kennedy,D,38.6,Florida,8,False,False,138568,138790
+188,Darren Soto,D,56.0,Florida,9,True,True,1111750,945868
+189,William Olson,R,44.0,Florida,9,False,False,404406,401088
+190,Val Demings,D,63.6,Florida,10,True,True,1876047,1191020
+191,Vennia Francois,R,36.4,Florida,10,False,False,335480,332852
+192,Kristofer Steven,I,0.0,Florida,10,False,False,47,47
+193,Daniel Webster,R,66.7,Florida,11,True,True,691261,586965
+194,Dana Cottrell,D,33.3,Florida,11,False,False,62658,62380
+195,Gus Bilirakis,R,62.9,Florida,12,True,True,1604137,1548634
+196,Kim Walker,D,37.1,Florida,12,False,False,42802,33544
+197,Charlie Crist,D,53.0,Florida,13,True,True,2720646,3980695
+198,Anna Paulina,R,47.0,Florida,13,False,False,3302944,3262236
+199,Kathy Castor,D,60.3,Florida,14,True,True,884651,1201653
+200,Christine Quinn,R,39.7,Florida,14,False,False,242144,241187
+201,Alan Cohn,D,44.6,Florida,15,False,False,2333053,2300197
+202,Scott Franklin,R,55.4,Florida,15,False,True,1663898,1638417
+203,Vernon Buchanan,R,55.5,Florida,16,True,True,3094611,3100766
+204,Margaret Good,D,44.5,Florida,16,False,False,3411924,3407845
+205,Greg Steube,R,64.6,Florida,17,True,True,759908,621200
+206,Allen Ellison,D,34.1,Florida,17,False,False,83481,78243
+207,Brian Mast,R,56.4,Florida,18,True,True,6128177,5301307
+208,Pam Keith,D,41.5,Florida,18,False,False,1639873,1632736
+209,Byron Donalds,R,61.3,Florida,19,False,True,3219579,2738685
+210,Cindy Banyai,D,38.7,Florida,19,False,False,214750,203430
+211,Alcee Hastings,D,78.7,Florida,20,True,True,607649,543316
+212,Greg Musselwhite,R,21.3,Florida,20,False,False,28955,27538
+213,Lois Frankel,D,59.0,Florida,21,True,True,1534882,1309786
+214,Laura Loomer,R,39.1,Florida,21,False,False,2271604,2240689
+215,Charleston Malkemus,I,1.9,Florida,21,False,False,28928,28636
+216,Ted Deutch,D,58.6,Florida,22,True,True,1364438,1265494
+217,Jim Pruden,R,41.4,Florida,22,False,False,278416,278416
+218,Debbie Wasserman,D,58.2,Florida,23,True,True,2191922,1979903
+219,Carla Spalding,R,41.8,Florida,23,False,False,919579,903561
+220,Frederica Wilson,D,75.6,Florida,24,True,True,412592,321019
+221,Lavern Spicer,R,20.4,Florida,24,False,False,34973,34909
+222,Christine Olivo,I,4.0,Florida,24,False,False,31646,32898
+223,Mario Diaz-Balart,R,100.0,Florida,25,True,True,1590134,804054
+224,Debbie Mucarsel-Powell,D,48.3,Florida,26,True,False,6793521,6822740
+225,Carlos Gimenez,R,51.7,Florida,26,False,True,2226559,2187389
+226,Donna Shalala,D,48.6,Florida,27,True,False,3842907,3735966
+227,Maria Salazar,R,51.4,Florida,27,False,True,3654190,3645814
+228,Frank Polo,I,0.0,Florida,27,False,False,4606,4662
+229,Buddy Carter,R,58.4,Georgia,1,True,True,2315487,1734754
+230,Joyce Griggs,D,41.7,Georgia,1,False,False,130043,125000
+231,Sanford Bishop,D,59.1,Georgia,2,True,True,1540683,1440571
+232,Don Cole,R,40.9,Georgia,2,False,False,164274,162522
+233,Drew Ferguson,R,65.0,Georgia,3,True,True,2374212,2150911
+234,Val Almonord,D,35.0,Georgia,3,False,False,35762,31946
+235,Hank Johnson,D,80.1,Georgia,4,True,True,628303,490360
+236,Johsira C.,R,19.9,Georgia,4,False,False,12954,23146
+237,Robert Franklin,D,0.0,Georgia,5,False,False,360473,358394
+238,Kwanza Hall,D,0.0,Georgia,5,False,False,239597,227091
+239,Chase Oliver,L,0.0,Georgia,5,False,False,9225,5220
+240,Steven Muhammad,I,0.0,Georgia,5,False,False,3497,4965
+241,Lucy McBath,D,54.6,Georgia,6,True,True,8507298,8586054
+242,Karen Handel,R,45.4,Georgia,6,False,False,3026243,3072932
+243,Carolyn Bourdeaux,D,54.4,Georgia,7,False,True,5133244,5161230
+244,Richard McCormick,R,48.6,Georgia,7,False,False,2595446,2563724
+245,Austin Scott,R,64.5,Georgia,8,True,True,821745,716159
+246,Jimmy Cooper,3,35.5,Georgia,8,False,False,8542,8528
+247,Lindsay Holliday,D,0.0,Georgia,8,False,False,7480,5220
+248,Andrew Clyde,R,78.6,Georgia,9,False,True,1569425,1561316
+249,Devin Pandy,D,21.4,Georgia,9,False,False,84272,84623
+250,Jody Hice,R,62.3,Georgia,10,True,True,595947,457648
+251,Tabitha Johnson-Green,D,37.7,Georgia,10,False,False,14808,12214
+252,Barry Loudermilk,R,60.4,Georgia,11,True,True,877767,700851
+253,Dana Barrett,D,39.6,Georgia,11,False,False,404625,394977
+254,Richard W,R,58.4,Georgia,12,True,True,1228970,662818
+255,Liz Johnson,D,41.6,Georgia,12,False,False,72061,72061
+256,David Scott,D,77.4,Georgia,13,True,True,1209614,1131746
+257,Becky Hites,R,22.6,Georgia,13,False,False,63509,62935
+258,Martin Cowen,L,0.0,Georgia,13,False,False,13460,13464
+259,Marjorie Taylor,R,74.8,Georgia,14,False,True,2596914,2237599
+260,Ed Case,D,72.0,Hawaii,1,True,True,508249,472569
+261,Ron Curtis,R,28.0,Hawaii,1,False,False,12538,12647
+262,Kai Kahele,D,57.9,Hawaii,2,False,True,1235523,1039637
+263,Joe Akana,R,28.3,Hawaii,2,False,False,54534,55344
+264,Jonathan Hoomanawanui,3,2.2,Hawaii,2,False,False,1883,1522
+265,Russ Fulcher,R,67.8,Idaho,1,True,True,575485,508457
+266,Rudy Soto,D,28.7,Idaho,1,False,False,302902,302902
+267,Mike Simpson,R,64.1,Idaho,2,True,True,1008847,1099604
+268,Aaron Swisher,D,31.7,Idaho,2,False,False,70674,70268
+269,Bobby Rush,D,73.8,Illinois,1,True,True,541435,496454
+270,Philanise White,R,26.2,Illinois,1,False,False,6289,5048
+271,Robin Kelly,D,78.8,Illinois,2,True,True,1634783,1108137
+272,Marie Newman,D,56.4,Illinois,3,False,True,2802093,2699323
+273,Mike Fricilone,R,43.6,Illinois,3,False,False,128458,127980
+274,Jesus Garcia,D,84.1,Illinois,4,True,True,822846,711159
+275,Jesus Solorio,R,15.9,Illinois,4,False,False,2065,843
+276,Mike Quigley,D,70.8,Illinois,5,True,True,1171507,926655
+277,Sean Casten,D,52.8,Illinois,6,True,True,5582179,5313570
+278,Jeanne Ives,R,45.4,Illinois,6,False,False,3157771,3135464
+279,Bill Redpath,L,1.7,Illinois,6,False,False,9837,9837
+280,Danny K,D,80.4,Illinois,7,True,True,544690,505506
+281,Tracy Jennings,3,6.2,Illinois,7,False,False,65283,65283
+282,Raja Krishnamoorthi,D,73.2,Illinois,8,True,True,6358878,2207703
+283,Jan Schakowsky,D,71.0,Illinois,9,True,True,1834801,1514838
+284,Sargis Sangari,R,29.0,Illinois,9,False,False,35364,34715
+285,Brad Schneider,D,63.8,Illinois,10,True,True,3459512,2873333
+286,Valerie Ramirez,R,36.2,Illinois,10,False,False,130225,64764
+287,Bill Foster,D,63.3,Illinois,11,True,True,2381354,1823906
+288,Rick Laib,R,36.7,Illinois,11,False,False,20343,20064
+289,Mike Bost,R,60.6,Illinois,12,True,True,1918041,1509573
+290,Ray Lenzi,D,39.4,Illinois,12,False,False,161324,104809
+291,Rodney Davis,R,54.4,Illinois,13,True,True,4943459,4822600
+292,Betsy Dirksen,D,45.6,Illinois,13,False,False,5297007,5281880
+293,Lauren A,D,50.7,Illinois,14,True,True,7803579,7301503
+294,Jim Oberweis,R,49.3,Illinois,14,False,False,2438857,2348798
+295,Mary Miller,R,73.5,Illinois,15,False,True,689057,570356
+296,Erika Weaver,D,26.5,Illinois,15,False,False,58689,23349
+297,Adam Kinzinger,R,64.8,Illinois,16,True,True,2105736,1588550
+298,Dani Brzozowski,D,35.2,Illinois,16,False,False,459344,376167
+299,Cheri Bustos,D,52.0,Illinois,17,True,True,4975192,6391009
+300,Esther Joy,R,48.0,Illinois,17,False,False,2032878,2030587
+301,Darin LaHood,R,70.5,Illinois,18,True,True,3248113,1749128
+302,Frank Mrvan,D,56.6,Indiana,1,False,True,578635,464407
+303,Mark Leyva,R,40.4,Indiana,1,False,False,16551,15343
+304,Jackie Walorski,R,61.5,Indiana,2,True,True,2383467,1698202
+305,Pat Hackett,D,38.5,Indiana,2,False,False,881888,867301
+306,Jim Banks,R,67.8,Indiana,3,True,True,1202509,769591
+307,Chip Coldiron,D,32.2,Indiana,3,False,False,94056,89883
+308,Jim Baird,R,66.6,Indiana,4,True,True,327727,190158
+309,Joe Mackey,D,33.4,Indiana,4,False,False,44585,43213
+310,Christina Hale,D,45.9,Indiana,5,False,False,4010368,3998905
+311,Victoria Spartz,R,50.0,Indiana,5,False,True,3119328,3010203
+312,Greg Pence,R,68.7,Indiana,6,True,True,3114448,2804148
+313,Jeannine Lee,D,27.7,Indiana,6,False,False,143089,145315
+314,Andre Carson,D,62.4,Indiana,7,True,True,1011635,873962
+315,Susan Marie,R,37.6,Indiana,7,False,False,62905,59843
+316,Larry Bucshon,R,66.9,Indiana,8,True,True,1051336,1078646
+317,Thomasina Marsili,D,29.8,Indiana,8,False,False,68734,68480
+318,Trey Hollingsworth,R,60.9,Indiana,9,True,True,1166754,501136
+319,Andy Ruff,D,34.8,Indiana,9,False,False,148263,134906
+320,Tonya Millis,L,4.3,Indiana,9,False,False,10224,10041
+321,Abby Finkenauer,D,48.7,Iowa,1,True,False,5901441,5875405
+322,Ashley Hinson,R,51.3,Iowa,1,False,True,5175883,5059211
+323,Rita Hart,D,50.0,Iowa,2,False,False,4232992,4114400
+324,Mariannette Miller-Meeks,R,50.0,Iowa,2,False,True,2174194,1721926
+325,Cindy Axne,D,49.0,Iowa,3,True,True,6236976,6236994
+326,David Young,R,47.6,Iowa,3,False,False,3170072,3094582
+327,J.D. Scholten,D,37.9,Iowa,4,False,False,2885915,2902003
+328,Randy Feenstra,R,62.1,Iowa,4,False,True,1906234,1894288
+329,Tracey Mann,R,71.4,Kansas,1,False,True,1403353,1127156
+330,Kali Barnett,D,28.6,Kansas,1,False,False,603036,592924
+331,Michelle De,D,40.5,Kansas,2,False,False,1825085,1810968
+332,Jake Laturner,R,55.3,Kansas,2,False,True,1593407,1578460
+333,Sharice Davids,D,53.4,Kansas,3,True,True,5638552,5168034
+334,Amanda Adkins,R,43.8,Kansas,3,False,False,2182382,2139673
+335,Ron Estes,R,64.0,Kansas,4,True,True,1993808,1420188
+336,Laura Lombard,D,36.0,Kansas,4,False,False,264459,258684
+337,James Comer,R,75.0,Kentucky,1,True,True,736116,502554
+338,Brett Guthrie,R,71.0,Kentucky,2,True,True,1412797,1566622
+339,Hank Linderman,D,26.3,Kentucky,2,False,False,93388,71122
+340,Robert Lee,L,2.1,Kentucky,2,False,False,12798,7825
+341,John Yarmuth,D,62.7,Kentucky,3,True,True,658295,690226
+342,Rhonda Palazzo,R,37.3,Kentucky,3,False,False,46144,45668
+343,Thomas Massie,R,67.1,Kentucky,4,True,True,1457316,1563275
+344,Alexandra Owensby,D,32.9,Kentucky,4,False,False,156174,106359
+345,Hal Rogers,R,84.2,Kentucky,5,True,True,664168,835781
+346,Andy Barr,R,57.3,Kentucky,6,True,True,4536264,4316239
+347,Josh Hicks,D,41.0,Kentucky,6,False,False,2936320,2935615
+348,Steve Scalise,R,72.2,Louisiana,1,True,True,37262827,32830607
+349,Cedric Richmond,D,63.6,Louisiana,2,True,True,1628289,1302079
+350,Clay Higgins,R,67.8,Louisiana,3,True,True,751498,720424
+351,Robert Jon,D,11.6,Louisiana,3,False,False,63617,48015
+352,Braylon Harris,D,17.9,Louisiana,3,False,False,23006,15130
+353,Mike Johnson,R,60.4,Louisiana,4,True,True,1299787,1039393
+354,Kenny Houston,D,25.5,Louisiana,4,False,False,33677,33407
+355,Luke Letlow,R,62.0,Louisiana,5,False,False,1392822,1303757
+356,Lance Harris,R,38.0,Louisiana,5,False,False,696805,687833
+357,Martin Lemelle,D,0.0,Louisiana,5,False,False,173796,162747
+358,Scotty Robinson,R,0.0,Louisiana,5,False,False,113903,113835
+359,Candy Christophe,D,0.0,Louisiana,5,False,False,77101,131161
+360,Phillip Snowden,D,0.0,Louisiana,5,False,False,29481,28077
+361,Matthew Hasty,R,0.0,Louisiana,5,False,False,2654,2615
+362,Garret Graves,R,71.1,Louisiana,6,True,True,1743015,1200287
+363,Dartanyon Williams,D,25.6,Louisiana,6,False,False,111316,98114
+364,Chellie Pingree,D,61.5,Maine,1,True,True,487080,264790
+365,Jay Allen,R,38.5,Maine,1,False,False,79585,69853
+366,Jared Golden,D,52.9,Maine,2,True,True,5272142,5233990
+367,Dale Crafts,R,47.1,Maine,2,False,False,1199805,1196117
+368,Andy Harris,R,63.5,Maryland,1,True,True,1468096,973953
+369,Mia Mason,D,36.3,Maryland,1,False,False,2524,0
+370,Dutch Ruppersberger,D,67.2,Maryland,2,True,True,1012835,927353
+371,Johnny Ray,R,32.6,Maryland,2,False,False,68320,66895
+372,John Sarbanes,D,69.5,Maryland,3,True,True,573599,687299
+373,Charles Anthony,R,30.3,Maryland,3,False,False,7798,6742
+374,Anthony Brown,D,79.3,Maryland,4,True,True,1446636,846827
+375,Steny H,D,68.5,Maryland,5,True,True,4587189,4342255
+376,Chris Palombi,R,31.2,Maryland,5,False,False,43462,42095
+377,David Trone,D,57.9,Maryland,6,True,True,2944893,2959748
+378,Neil Parrott,R,40.2,Maryland,6,False,False,315936,261259
+379,Kweisi Mfume,D,71.6,Maryland,7,True,True,1014126,713389
+380,Kimberly Klacik,R,28.1,Maryland,7,False,False,8296845,7499454
+381,Amber Ivey,I,0.0,Maryland,7,False,False,41924,43394
+382,Jamie Raskin,D,67.3,Maryland,8,True,True,2072652,1399252
+383,Gregory Coll,R,32.5,Maryland,8,False,False,30876,27257
+384,Richard E,D,96.5,Massachusetts,1,True,True,4949384,5873122
+385,James P,D,65.3,Massachusetts,2,True,True,1052549,1089412
+386,Tracy Lovvorn,R,34.6,Massachusetts,2,False,False,26311,22319
+387,Lori Trahan,D,97.7,Massachusetts,3,True,True,1449303,1232437
+388,Jake Auchincloss,D,60.8,Massachusetts,4,False,True,2608686,2150904
+389,Julie Hall,R,38.9,Massachusetts,4,False,False,131603,129378
+390,Katherine Clark,D,74.3,Massachusetts,5,True,True,1788706,1514877
+391,Caroline Colarusso,R,25.6,Massachusetts,5,False,False,148635,146972
+392,Seth Moulton,D,65.4,Massachusetts,6,True,True,1289805,1802169
+393,John Paul,R,34.4,Massachusetts,6,False,False,300220,299104
+394,Ayanna Pressley,D,86.6,Massachusetts,7,True,True,2163370,1748432
+395,Stephen Lynch,D,80.7,Massachusetts,8,True,True,905614,1134662
+396,Bill Keating,D,61.3,Massachusetts,9,True,True,708680,652448
+397,Helen Brady,R,36.3,Massachusetts,9,False,False,28233,23735
+398,John Bergman,R,61.6,Michigan,1,True,True,1868512,1733466
+399,Dana Ferguson,D,36.9,Michigan,1,False,False,346213,339788
+400,Bill Huizenga,R,59.2,Michigan,2,True,True,2175411,1883610
+401,Bryan Berghoef,D,38.2,Michigan,2,False,False,751576,669864
+402,Jean-Michel Creviere,3,0.7,Michigan,2,False,False,281,1207
+403,Hillary Scholten,D,47.0,Michigan,3,False,False,3793132,3765942
+404,Peter Meijer,R,53.0,Michigan,3,False,True,2975972,2887774
+405,John Moolenaar,R,65.0,Michigan,4,True,True,1528612,1036160
+406,Jerry Hilliard,D,32.4,Michigan,4,False,False,23117,23603
+407,Dan Kildee,D,54.5,Michigan,5,True,True,1669951,1504094
+408,Tim Kelly,R,41.7,Michigan,5,False,False,71106,71106
+409,Fred Upton,R,55.8,Michigan,6,True,True,3616380,3464617
+410,Jon Hoadley,D,40.1,Michigan,6,False,False,3116491,3098366
+411,Tim Walberg,R,58.8,Michigan,7,True,True,2301635,1586358
+412,Gretchen Driskell,D,41.3,Michigan,7,False,False,1712840,1712840
+413,Elissa Slotkin,D,50.9,Michigan,8,True,True,8967420,7419974
+414,Paul Junge,R,47.3,Michigan,8,False,False,2107608,2097131
+415,Andy Levin,D,57.8,Michigan,9,True,True,1316607,907237
+416,Lisa McClain,R,66.3,Michigan,10,False,True,2266287,2137031
+417,Kimberly Bizon,D,33.7,Michigan,10,False,False,41438,41246
+418,Haley Stevens,D,50.2,Michigan,11,True,True,5776924,5707448
+419,Eric Esshaki,R,47.8,Michigan,11,False,False,1298612,1291509
+420,Debbie Dingell,D,66.4,Michigan,12,True,True,1630498,1689582
+421,Jeff Jones,R,30.7,Michigan,12,False,False,10616,9657
+422,Rashida Tlaib,D,77.9,Michigan,13,True,True,4014411,3690334
+423,Donald Eason,I,0.0,Michigan,13,False,False,34156,34156
+424,Brenda Lawrence,D,78.9,Michigan,14,True,True,1084662,789570
+425,Vance Patrick,R,18.7,Michigan,14,False,False,39670,41973
+426,Jim Hagedorn,R,48.6,Minnesota,1,True,True,2386033,2305994
+427,Daniel Feehan,D,45.5,Minnesota,1,False,False,4861651,4863835
+428,Angie Craig,D,48.2,Minnesota,2,True,True,5380101,4435492
+429,Tyler Kistner,R,45.9,Minnesota,2,False,False,2990054,2956042
+430,Dean Phillips,D,55.6,Minnesota,3,True,True,2328616,2152031
+431,Kendall Qualls,R,44.3,Minnesota,3,False,False,1863927,1751214
+432,Gary Heyer,I,0.0,Minnesota,3,False,False,827,827
+433,Betty McCollum,D,63.2,Minnesota,4,True,True,1171748,994072
+434,Gene Rechtzigel,R,29.0,Minnesota,4,False,False,20075,20075
+435,Ilhan Omar,D,64.3,Minnesota,5,True,True,5718517,5605576
+436,Lacy Johnson,R,25.8,Minnesota,5,False,False,12050564,12000896
+437,Chris Kelley,3,0.0,Minnesota,5,False,False,249583,249583
+438,Ervan Katari,I,0.0,Minnesota,5,False,False,255,187
+439,Tom Emmer,R,65.5,Minnesota,6,True,True,2804265,2537612
+440,Tawnja Zahradka,D,34.3,Minnesota,6,False,False,49242,49214
+441,Collin Peterson,D,39.9,Minnesota,7,True,False,2714012,2867577
+442,Michelle Fischbach,R,53.4,Minnesota,7,False,True,2618450,2580501
+443,Pete Stauber,R,56.7,Minnesota,8,True,True,2593190,2608759
+444,Quinn Nystrom,D,37.6,Minnesota,8,False,False,1530606,1527005
+445,Trent Kelly,R,68.7,Mississippi,1,True,True,876882,826673
+446,Antonia Eliason,D,31.3,Mississippi,1,False,False,22281,18174
+447,Bennie G,D,66.0,Mississippi,2,True,True,1377392,1096904
+448,Michael Guest,R,64.7,Mississippi,3,True,True,766807,518162
+449,Steven Palazzo,R,100.0,Mississippi,4,True,True,817129,747217
+450,Cori Bush,D,78.8,Missouri,1,False,True,1418014,1333512
+451,Ann Wagner,R,52.0,Missouri,2,True,True,5598287,6513101
+452,Jill Schupp,D,45.4,Missouri,2,False,False,4850948,4830434
+453,Blaine Luetkemeyer,R,69.4,Missouri,3,True,True,2022905,2081391
+454,Vicky Hartzler,R,67.6,Missouri,4,True,True,1700978,1335607
+455,Lindsey Simmons,D,29.7,Missouri,4,False,False,395934,384622
+456,Emanuel Cleaver,D,58.5,Missouri,5,True,True,1393847,928061
+457,Ryan Derks,R,38.7,Missouri,5,False,False,76488,76488
+458,Sam Graves,R,67.1,Missouri,6,True,True,1959516,1654756
+459,Gena Ross,D,30.8,Missouri,6,False,False,10170,10530
+460,Billy Long,R,68.7,Missouri,7,True,True,1320420,1518234
+461,Audrey Richards,I,0.0,Missouri,7,False,False,7985,8113
+462,Jason Smith,R,76.9,Missouri,8,True,True,1900227,1514786
+463,Kathryn Ellis,D,21.4,Missouri,8,False,False,302428,305387
+464,Kathleen Williams,D,43.6,Montana,1,False,False,6201758,6232286
+465,Matt Rosendale,R,56.4,Montana,1,False,True,3674706,3488045
+466,Jeff Fortenberry,R,59.5,Nebraska,1,True,True,1472816,2458330
+467,Kate Bolz,D,37.7,Nebraska,1,False,False,1143509,1140371
+468,Don Bacon,R,50.6,Nebraska,2,True,True,3749272,3713961
+469,Kara Eastman,D,46.3,Nebraska,2,False,False,4414390,4468006
+470,Adrian Smith,R,78.5,Nebraska,3,True,True,1506473,1148409
+471,Mark Elworth,D,17.7,Nebraska,3,False,False,255,0
+472,Dina Titus,D,61.8,Nevada,1,True,True,706193,587919
+473,Mark Amodei,R,56.5,Nevada,2,True,True,1048056,1016673
+474,Patricia Ackerman,D,40.7,Nevada,2,False,False,449363,449449
+475,Susie Lee,D,48.8,Nevada,3,True,True,4748019,4732009
+476,Dan Rodimer,R,45.8,Nevada,3,False,False,2936059,2915216
+477,Steven Horsford,D,50.7,Nevada,4,True,True,3492372,3024427
+478,Jim Marchant,R,45.8,Nevada,4,False,False,1462772,1419405
+479,Jonathan Royce,L,2.4,Nevada,4,False,False,2788,1603
+480,Chris Pappas,D,51.3,New Hampshire,1,True,True,3205731,3105663
+481,Matt Mowers,R,46.2,New Hampshire,1,False,False,1707214,1698761
+482,Ann Kuster,D,53.9,New Hampshire,2,True,True,2960033,2970274
+483,Steve Negron,R,43.7,New Hampshire,2,False,False,368177,378959
+484,Don Norcross,D,62.5,New Jersey,1,True,True,2221989,1087264
+485,Claire Gustafson,R,37.5,New Jersey,1,False,False,36520,21761
+486,Jeff Van,R,51.9,New Jersey,2,True,True,4229171,4041493
+487,Amy Kennedy,D,46.2,New Jersey,2,False,False,4984376,4978913
+488,Andy Kim,D,53.2,New Jersey,3,True,True,7241283,6753262
+489,David Richter,R,45.5,New Jersey,3,False,False,1473669,1470648
+490,Chris Smith,R,59.9,New Jersey,4,True,True,1383085,1284522
+491,Stephanie Schmid,D,38.3,New Jersey,4,False,False,699580,658011
+492,Josh Gottheimer,D,53.2,New Jersey,5,True,True,7694027,3487964
+493,Frank Pallotta,R,45.6,New Jersey,5,False,False,1972033,1948705
+494,Louis A.,I,1.2,New Jersey,5,False,False,5456,5342
+495,Frank Pallone,D,61.2,New Jersey,6,True,True,3231755,2021737
+496,Tom Malinowski,D,50.6,New Jersey,7,True,True,7414403,7423758
+497,Tom Kean,R,49.4,New Jersey,7,False,False,3869121,3775442
+498,Albio Sires,D,74.0,New Jersey,8,True,True,605810,551325
+499,Bill Pascrell,D,65.8,New Jersey,9,True,True,1560550,1795410
+500,Billy Prempeh,R,31.9,New Jersey,9,False,False,44269,35075
+501,Donald M,D,83.3,New Jersey,10,True,True,593735,457252
+502,Mikie Sherrill,D,53.3,New Jersey,11,True,True,6419707,3733106
+503,Rosemary Becchi,R,46.7,New Jersey,11,False,False,1687532,1686236
+504,Bonnie Watson,D,65.6,New Jersey,12,True,True,798439,840651
+505,Mark Razzoli,R,32.6,New Jersey,12,False,False,3065,1142
+506,Debra Haaland,D,58.1,New Mexico,1,True,True,2246734,1875766
+507,Michelle Garcia,R,41.9,New Mexico,1,False,False,257294,245590
+508,Xochitl Torres,D,46.3,New Mexico,2,True,False,8387337,8539065
+509,Yvette Herrell,R,53.7,New Mexico,2,False,True,2805711,2921785
+510,Steve Jones,I,0.0,New Mexico,2,False,False,9405,9505
+511,Teresa Leger,D,58.7,New Mexico,3,False,True,2296594,2132010
+512,Alexis Johnson,R,41.3,New Mexico,3,False,False,147303,147303
+513,Lee Zeldin,R,55.9,New York,1,True,True,8396981,8250116
+514,Nancy Goroff,D,44.1,New York,1,False,False,7866239,7860977
+515,Jackie Gordon,D,46.0,New York,2,False,False,4351881,4334484
+516,Andrew Garbarino,R,52.9,New York,2,False,True,1743986,1612132
+517,Harry Burger,3,1.0,New York,2,False,False,2430,594
+518,Tom Suozzi,D,53.2,New York,3,True,True,2941006,2331302
+519,George Santos,R,46.2,New York,3,False,False,658883,591239
+520,Joshua Sauberman,I,0.0,New York,3,False,False,127,270
+521,Kathleen Rice,D,52.0,New York,4,True,True,1106258,1210410
+522,Douglas Tuman,R,47.3,New York,4,False,False,134937,130995
+523,Ed Dennehy,I,0.0,New York,4,False,False,9031,9031
+524,Gregory Meeks,D,99.0,New York,5,True,True,2097572,1467454
+525,Amit Lal,I,0.0,New York,5,False,False,126,0
+526,Grace Meng,D,62.6,New York,6,True,True,1292084,1872311
+527,Thomas Zmich,R,37.4,New York,6,False,False,133403,131278
+528,Nydia Velazquez,D,83.0,New York,7,True,True,803217,676248
+529,Hakeem Jeffries,D,82.5,New York,8,True,True,4168717,3293077
+530,Yvette Clarke,D,81.5,New York,9,True,True,1200067,1190143
+531,Jerrold Nadler,D,68.5,New York,10,True,True,1848688,1950774
+532,Cathy Bernstein,R,30.1,New York,10,False,False,49975,28384
+533,Jeanne Nigro,I,1.2,New York,10,False,False,34548,28039
+534,Michael Madrid,L,0.0,New York,10,False,False,14326,12149
+535,Max Rose,D,42.0,New York,11,True,False,9284434,9499242
+536,Nicole Malliotakis,R,57.8,New York,11,False,True,3469995,3447052
+537,Kemi Akindude,I,0.0,New York,11,False,False,21261,14697
+538,Carolyn Maloney,D,78.9,New York,12,True,True,3067173,3059202
+539,Adriano Espaillat,D,86.0,New York,13,True,True,1087237,1252740
+540,Lovelynn Gwinn,R,8.0,New York,13,False,False,39384,39384
+541,Alexandria Ocasio-Cortez,D,68.7,New York,14,True,True,20664795,16735422
+542,John C.,R,30.5,New York,14,False,False,11140937,10947758
+543,Ritchie Torres,D,88.2,New York,15,False,True,2194025,1804336
+544,Jamaal Bowman,D,82.9,New York,16,False,True,2878898,2801424
+545,Mondaire Jones,D,54.1,New York,17,False,True,2984052,2186463
+546,Maureen McArdle,R,39.8,New York,17,False,False,54732,60084
+547,Michael Parietti,3,0.9,New York,17,False,False,44787,19670
+548,Sean Patrick,D,51.8,New York,18,True,True,2556294,1718525
+549,Chele Farley,R,47.3,New York,18,False,False,1186211,1152124
+550,Scott Smith,I,0.9,New York,18,False,False,8718,8403
+551,Antonio Delgado,D,51.5,New York,19,True,True,5949475,2963286
+552,Kyle Van,R,45.9,New York,19,False,False,153796,120097
+553,Paul Tonko,D,56.5,New York,20,True,True,1541984,1418994
+554,Elizabeth Joy,R,43.4,New York,20,False,False,370852,336845
+555,Elise Stefanik,R,64.4,New York,21,True,True,13287248,11655936
+556,Tedra Cobb,D,35.6,New York,21,False,False,5586793,5593266
+557,Anthony Brindisi,D,48.8,New York,22,True,False,6020190,5772429
+558,Claudia Tenney,R,48.8,New York,22,False,True,3051777,2725893
+559,Tom Reed,R,57.7,New York,23,True,True,3275177,3145027
+560,Tracy Mitrano,D,41.4,New York,23,False,False,1450322,1466128
+561,John Katko,R,53.1,New York,24,True,True,3821107,3597234
+562,Dana Balter,D,43.0,New York,24,False,False,3212469,3230808
+563,Joseph D,D,59.3,New York,25,True,True,1375366,1274426
+564,George Mitris,R,39.1,New York,25,False,False,301376,279047
+565,Kevin Wilson,L,1.5,New York,25,False,False,5128,3417
+566,Brian Higgins,D,69.8,New York,26,True,True,1124168,984106
+567,Chris Jacobs,R,59.7,New York,27,False,True,2147101,2084271
+568,Nate McMurray,D,39.0,New York,27,False,False,1150058,1097111
+569,Duane Whitmer,L,1.3,New York,27,False,False,36056,36056
+570,G K,D,54.2,North Carolina,1,True,True,1032869,880420
+571,Sandy Smith,R,45.8,North Carolina,1,False,False,1458375,1437805
+572,Deborah Ross,D,63.0,North Carolina,2,False,True,2268381,1816923
+573,Alan Swain,R,34.8,North Carolina,2,False,False,119664,119435
+574,Japheth Matemu,L,2.2,North Carolina,2,False,False,625,54
+575,Allen Thomas,D,0.0,North Carolina,3,False,False,612046,611895
+576,Greg Murphy,R,63.4,North Carolina,3,True,True,1767790,1505559
+577,David Price,D,67.3,North Carolina,4,True,True,1161738,1014872
+578,Virginia Foxx,R,66.9,North Carolina,5,True,True,1858388,1944629
+579,David Wilson,D,31.1,North Carolina,5,False,False,61596,60668
+580,Kathy Manning,D,62.3,North Carolina,6,False,True,2002284,1695596
+581,Lee Haywood,R,37.7,North Carolina,6,False,False,73878,58342
+582,Jennyfer Bucardo,I,0.0,North Carolina,6,False,False,750,759
+583,David Rouzer,R,60.3,North Carolina,7,True,True,1628458,1038883
+584,Christopher Ward,D,39.6,North Carolina,7,False,False,16260,4119
+585,Richard Hudson,R,53.3,North Carolina,8,True,True,4135872,4359009
+586,Patricia Timmons-Goodson,D,46.7,North Carolina,8,False,False,3855743,3852668
+587,Dan Bishop,R,55.6,North Carolina,8,False,True,4090260,4029864
+588,Dan McCready,D,0.0,North Carolina,9,False,False,7114557,7329299
+589,Allen Smith,3,0.0,North Carolina,9,False,False,6010,4141
+590,Dan Bishop,R,55.6,North Carolina,9,True,True,4090260,4029864
+591,Cynthia Wallace,D,44.4,North Carolina,9,False,False,811609,794300
+592,Patrick McHenry,R,68.9,North Carolina,10,True,True,2780234,2339363
+593,David Parker,D,31.1,North Carolina,10,False,False,30555,30555
+594,Madison Cawthorn,R,54.5,North Carolina,11,False,True,4478970,4366783
+595,Moe Davis,D,42.3,North Carolina,11,False,False,2251413,2148121
+596,Alma Adams,D,100.0,North Carolina,12,True,True,824124,651883
+597,Bill Brewster,R,0.0,North Carolina,12,False,False,21950,16763
+598,Ted Budd,R,68.2,North Carolina,13,True,True,2294174,1293414
+599,Scott Huffman,D,31.8,North Carolina,13,False,False,193334,189967
+600,Kelly Armstrong,R,69.0,North Dakota,1,True,True,1269346,1080105
+601,Zach Raknerud,D,27.6,North Dakota,1,False,False,28047,26029
+602,Steve Chabot,R,51.8,Ohio,1,True,True,3177647,2861464
+603,Kate Schroder,D,44.7,Ohio,1,False,False,4040303,4039798
+604,Kevin Kahn,L,3.6,Ohio,1,False,False,12085,8398
+605,Brad Wenstrup,R,61.1,Ohio,2,True,True,1794354,1757078
+606,Jaime Castle,D,38.9,Ohio,2,False,False,284197,271471
+607,Joyce Beatty,D,70.8,Ohio,3,True,True,2237887,2540687
+608,Nicholas Moss,I,0.0,Ohio,3,False,False,1258,1248
+609,Jim Jordan,R,67.9,Ohio,4,True,True,18313823,12945651
+610,Chris Gibbs,I,0.0,Ohio,4,False,False,65807,65807
+611,Bob Latta,R,68.0,Ohio,5,True,True,1580952,1477090
+612,Nick Rubando,D,32.0,Ohio,5,False,False,249319,247423
+613,Bill Johnson,R,74.4,Ohio,6,True,True,1866123,1853361
+614,Shawna Roberts,D,25.6,Ohio,6,False,False,262,574
+615,Bob Gibbs,R,67.5,Ohio,7,True,True,791888,453928
+616,Quentin Potter,D,29.2,Ohio,7,False,False,12976,12976
+617,Brandon Lape,L,3.3,Ohio,7,False,False,3348,2713
+618,Warren Davidson,R,69.0,Ohio,8,True,True,1016740,841533
+619,Vanessa Enoch,D,31.0,Ohio,8,False,False,40270,37546
+620,Marcy Kaptur,D,63.1,Ohio,9,True,True,1090395,979798
+621,Rob Weber,R,36.9,Ohio,9,False,False,134898,123262
+622,Michael R,R,58.4,Ohio,10,True,True,1752255,1736283
+623,Desiree Tims,D,41.6,Ohio,10,False,False,2040760,2024010
+624,Marcia Fudge,D,80.1,Ohio,11,True,True,755787,499820
+625,Laverne Gore,R,20.0,Ohio,11,False,False,157044,156827
+626,Troy Balderson,R,55.2,Ohio,12,True,True,2016826,1995665
+627,Alaina Shearer,D,41.8,Ohio,12,False,False,1033711,1025410
+628,John Stewart,L,3.0,Ohio,12,False,False,75170,66382
+629,Tim Ryan,D,52.5,Ohio,13,True,True,1972446,2071454
+630,Christina Hagan,R,44.9,Ohio,13,False,False,861723,820660
+631,David P,R,60.1,Ohio,14,True,True,2917696,2501449
+632,Hillary O'Connor,D,39.9,Ohio,14,False,False,579877,574646
+633,Steve Stivers,R,63.4,Ohio,15,True,True,3004799,2293101
+634,Joel Newby,D,36.6,Ohio,15,False,False,55797,55797
+635,Anthony Gonzalez,R,63.2,Ohio,16,True,True,2338195,1839807
+636,Aaron Godfrey,D,36.8,Ohio,16,False,False,60294,60430
+637,Kevin Hern,R,63.7,Oklahoma,1,True,True,1094104,830366
+638,Kojo Asamoa-Caesar,D,32.7,Oklahoma,1,False,False,157355,173928
+639,Markwayne Mullin,R,75.0,Oklahoma,2,True,True,1660206,1077939
+640,Danyell Lanier,D,22.0,Oklahoma,2,False,False,41730,41722
+641,Frank D,R,78.5,Oklahoma,3,True,True,872749,1036145
+642,Tom Cole,R,67.8,Oklahoma,4,True,True,1812530,1753697
+643,Mary Brannon,D,28.8,Oklahoma,4,False,False,2084,1599
+644,Kendra Horn,D,47.9,Oklahoma,5,True,False,5949800,5946195
+645,Stephanie Bice,R,52.1,Oklahoma,5,False,True,3720520,3508929
+646,Suzanne Bonamici,D,64.6,Oregon,1,True,True,959223,864627
+647,Chris Christensen,R,35.2,Oregon,1,False,False,144,672
+648,Cliff Bentz,R,60.0,Oregon,2,False,True,1450780,1361727
+649,Alex Spenser,D,36.9,Oregon,2,False,False,20640,5089
+650,Earl Blumenauer,D,73.0,Oregon,3,True,True,1813365,1948453
+651,Joanna Harbour,R,23.5,Oregon,3,False,False,17681,14502
+652,Peter DeFazio,D,51.6,Oregon,4,True,True,5182843,5781074
+653,Alek Skarlatos,R,46.2,Oregon,4,False,False,5454621,5331264
+654,Kurt Schrader,D,51.9,Oregon,5,True,True,2018692,1922073
+655,Amy Ryan,R,45.2,Oregon,5,False,False,231624,221041
+656,Brian Fitzpatrick,R,58.7,Pennsylvania,1,True,True,4203825,4272135
+657,Christina Finello,D,41.3,Pennsylvania,1,False,False,2336814,2329748
+658,Brendan Boyle,D,65.1,Pennsylvania,2,True,True,1556650,756317
+659,Dwight Evans,D,87.5,Pennsylvania,3,True,True,942386,781265
+660,Madeleine Dean,D,56.0,Pennsylvania,4,True,True,1435995,1005928
+661,Kathy Barnette,R,44.0,Pennsylvania,4,False,False,1000389,884640
+662,Joe Tarshish,I,0.0,Pennsylvania,4,False,False,24038,23738
+663,Mary Gay,D,60.3,Pennsylvania,5,True,True,1455042,1350276
+664,Dasha Pruett,R,39.7,Pennsylvania,5,False,False,105146,82437
+665,Chrissy Houlahan,D,54.7,Pennsylvania,6,True,True,3484484,1327283
+666,John Emmons,R,45.3,Pennsylvania,6,False,False,608859,601390
+667,John McHugh,I,0.0,Pennsylvania,6,False,False,6165,4410
+668,Susan Wild,D,51.7,Pennsylvania,7,True,True,4581056,4528267
+669,Matt Cartwright,D,51.7,Pennsylvania,8,True,True,3885136,4144070
+670,Jim Bognet,R,48.3,Pennsylvania,8,False,False,1519527,1386040
+671,Dan Meuser,R,68.2,Pennsylvania,9,True,True,1071961,944010
+672,Gary Wegman,D,31.8,Pennsylvania,9,False,False,188787,187348
+673,Scott Perry,R,53.4,Pennsylvania,10,True,True,3956481,3839197
+674,Eugene DePasquale,D,46.6,Pennsylvania,10,False,False,4534580,4526684
+675,Lloyd Smucker,R,69.2,Pennsylvania,11,True,True,1349318,662704
+676,Sarah Hammond,D,30.8,Pennsylvania,11,False,False,28733,23458
+677,Marc Friedenberg,D,0.0,Pennsylvania,12,False,False,139715,205795
+678,Fred Keller,R,71.8,Pennsylvania,12,True,True,1541938,1066158
+679,Lee Griffin,D,28.2,Pennsylvania,12,False,False,45850,44571
+680,Liz Terwilliger,L,0.0,Pennsylvania,12,False,False,6211,5937
+681,John Joyce,R,79.0,Pennsylvania,13,True,True,1119769,461229
+682,Todd Rowley,D,21.0,Pennsylvania,13,False,False,60348,67527
+683,Guy Reschenthaler,R,67.8,Pennsylvania,14,True,True,2250282,1580488
+684,Bill Marx,D,32.2,Pennsylvania,14,False,False,60403,45959
+685,Glenn Thompson,R,76.3,Pennsylvania,15,True,True,1700061,1839073
+686,Mike Kelly,R,67.2,Pennsylvania,16,True,True,2239488,1319340
+687,Kristy Gnibus,D,32.8,Pennsylvania,16,False,False,584205,579453
+688,Conor Lamb,D,51.1,Pennsylvania,17,True,True,4063114,3448850
+689,Sean Parnell,R,48.9,Pennsylvania,17,False,False,3935774,3732399
+690,Mike Doyle,D,64.6,Pennsylvania,18,True,True,1008711,999692
+691,Luke Negron,R,35.4,Pennsylvania,18,False,False,57714,51666
+692,David Cicilline,D,70.8,Rhode Island,1,True,True,1574854,1743173
+693,Jim Langevin,D,58.2,Rhode Island,2,True,True,1102312,1422339
+694,Bob Lancia,R,41.5,Rhode Island,2,False,False,55549,47877
+695,Joe Cunningham,D,49.3,South Carolina,1,True,False,6941746,6993962
+696,Nancy Mace,R,50.6,South Carolina,1,False,True,5766726,5707239
+697,Joe Wilson,R,55.7,South Carolina,2,True,True,1648065,1723956
+698,Adair Boroughs,D,42.6,South Carolina,2,False,False,2510526,2507664
+699,Jeff Duncan,R,71.2,South Carolina,3,True,True,1509647,1271872
+700,Hosea Cleveland,D,28.7,South Carolina,3,False,False,43214,45107
+701,William Timmons,R,61.6,South Carolina,4,True,True,977784,982233
+702,Kim Nelson,D,36.9,South Carolina,4,False,False,167825,167508
+703,Ralph Norman,R,60.1,South Carolina,5,True,True,991246,859747
+704,Moe Brown,D,39.9,South Carolina,5,False,False,480648,477295
+705,James E Clyburn,D,68.2,South Carolina,6,True,True,3406945,2332128
+706,Tom Rice,R,61.8,South Carolina,7,True,True,1405738,1242208
+707,Melissa Watson,D,38.1,South Carolina,7,False,False,147623,147623
+708,Larry Guy,L,0.0,South Carolina,7,False,False,199,199
+709,Dusty Johnson,R,81.8,South Dakota,1,True,True,1693504,699356
+710,Diana Harshbarger,R,74.8,Tennessee,1,False,True,2126946,1869100
+711,Blair Nicole,D,22.4,Tennessee,1,False,False,140209,134995
+712,Tim Burchett,R,67.7,Tennessee,2,True,True,1336276,878488
+713,Renee Hoyos,D,31.0,Tennessee,2,False,False,812784,816793
+714,Chuck Fleischmann,R,67.3,Tennessee,3,True,True,1051653,381411
+715,Meg Gorman,D,30.5,Tennessee,3,False,False,85843,77760
+716,Scott Desjarlais,R,66.7,Tennessee,4,True,True,331464,392499
+717,Christopher Hale,D,33.3,Tennessee,4,False,False,308731,302996
+718,Jim Cooper,D,100.0,Tennessee,5,True,True,936569,1332131
+719,John Rose,R,73.7,Tennessee,6,True,True,1050429,625688
+720,Mark Green,R,69.9,Tennessee,7,True,True,1194960,935487
+721,Kiran Sreepada,D,27.3,Tennessee,7,False,False,206644,207191
+722,Ronald Brown,I,2.2,Tennessee,7,False,False,1750,0
+723,Scott Vieira,I,0.6,Tennessee,7,False,False,655,1049
+724,David Kustoff,R,68.5,Tennessee,8,True,True,1641217,999285
+725,Erika Stotts,D,29.5,Tennessee,8,False,False,19070,15883
+726,Steve Cohen,D,77.4,Tennessee,9,True,True,607570,457311
+727,Charlotte Bergmann,R,20.1,Tennessee,9,False,False,99147,100532
+728,Dennis Clark,I,1.6,Tennessee,9,False,False,9991,9919
+729,Louie Gohmert,R,72.6,Texas,1,True,True,552915,580441
+730,Hank Gilbert,D,27.4,Texas,1,False,False,968155,734411
+731,Dan Crenshaw,R,55.6,Texas,2,True,True,19427865,17596329
+732,Sima Ladjevardian,D,42.8,Texas,2,False,False,3832697,3825287
+733,Elliott Scheirman,L,1.6,Texas,2,False,False,15374,14296
+734,Van Taylor,R,55.1,Texas,3,True,True,2655327,2825378
+735,Helane Seikaly,D,42.9,Texas,3,False,False,1635185,1634843
+736,Patrick Fallon,R,75.1,Texas,4,False,True,257174,95065
+737,Tracy Shawn,I,0.4,Texas,4,False,False,13002,10595
+738,Lance Gooden,R,62.0,Texas,5,True,True,1610327,1311983
+739,Carolyn Salter,D,35.9,Texas,5,False,False,317848,289112
+740,Kevin Hale,L,2.1,Texas,5,False,False,18405,6508
+741,Ron Wright,R,52.8,Texas,6,True,True,912134,907693
+742,Stephen Daniel,D,44.0,Texas,6,False,False,680402,677568
+743,Lizzie Fletcher,D,50.8,Texas,7,True,True,6265165,6246136
+744,Wesley Hunt,R,47.5,Texas,7,False,False,7524064,7300122
+745,Kevin Brady,R,72.5,Texas,8,True,True,3570477,3190447
+746,Elizabeth Hernandez,D,25.5,Texas,8,False,False,17227,14981
+747,Al Green,D,75.5,Texas,9,True,True,460332,486155
+748,Johnny Teague,R,21.6,Texas,9,False,False,89965,88366
+749,Michael McCaul,R,52.5,Texas,10,True,True,3856477,3910930
+750,Mike Siegel,D,45.4,Texas,10,False,False,2873926,2829765
+751,August Pfluger,R,79.7,Texas,11,False,True,2578540,1984134
+752,Jon Mark,D,18.3,Texas,11,False,False,137730,135141
+753,Kay Granger,R,63.7,Texas,12,True,True,3161288,3271815
+754,Lisa Welch,D,33.0,Texas,12,False,False,98465,98475
+755,Trey Holcomb,L,3.3,Texas,12,False,False,967,457
+756,Ronny Jackson,R,79.4,Texas,13,False,True,2128271,1741132
+757,Gus Trujillo,D,18.5,Texas,13,False,False,22826,18820
+758,Randy Weber,R,61.6,Texas,14,True,True,936202,924659
+759,Adrienne Bell,D,38.4,Texas,14,False,False,244754,240934
+760,Cyrus Sajna,I,0.0,Texas,14,False,False,35096,34942
+761,Michael David,I,0.0,Texas,14,False,False,100,12
+762,Vicente Gonzalez,D,50.5,Texas,15,True,True,1008381,657500
+763,Monica De,R,47.6,Texas,15,False,False,344893,338832
+764,Veronica Escobar,D,64.7,Texas,16,True,True,1135549,1087693
+765,Irene Armendariz-Jackson,R,35.3,Texas,16,False,False,168997,153671
+766,Pete Sessions,R,55.9,Texas,17,False,True,1447958,1658637
+767,Rick Kennedy,D,40.9,Texas,17,False,False,200668,202096
+768,Ted Brown,L,3.2,Texas,17,False,False,3041,3041
+769,Sheila Jackson,D,73.3,Texas,18,True,True,924480,838414
+770,Wendell Champion,R,23.5,Texas,18,False,False,305645,271278
+771,Jodey Arrington,R,74.8,Texas,19,True,True,2497184,1932700
+772,Tom Watson,D,22.9,Texas,19,False,False,49405,60806
+773,Joaquin Castro,D,64.7,Texas,20,True,True,674061,686934
+774,Mauro Garza,R,33.1,Texas,20,False,False,263293,240930
+775,Chip Roy,R,52.0,Texas,21,True,True,5005639,4679362
+776,Wendy Davis,D,45.4,Texas,21,False,False,10263486,10201874
+777,Michael Felts,I,0.0,Texas,21,False,False,3570,1851
+778,Sri Kulkarni,D,44.6,Texas,22,False,False,5639061,5630098
+779,Troy Nehls,R,51.5,Texas,22,False,True,1806655,1787448
+780,Gina Ortiz,D,46.6,Texas,23,False,False,6755222,6842440
+781,Tony Gonzales,R,50.5,Texas,23,False,True,2797133,2764108
+782,Candace Valenzuela,D,47.5,Texas,24,False,False,4886999,4875031
+783,Beth Van,R,48.8,Texas,24,False,True,3410852,3342442
+784,Stephen Kuzmich,I,1.2,Texas,24,False,False,175504,201332
+785,Mark Bauer,I,0.9,Texas,24,False,False,26342,26542
+786,Darren Hamilton,L,1.6,Texas,24,False,False,570,212
+787,Roger Williams,R,55.9,Texas,25,True,True,2435121,3347267
+788,Julie Oliver,D,42.1,Texas,25,False,False,2190347,2176319
+789,Michael Burgess,R,60.6,Texas,26,True,True,1806588,2081391
+790,Carol Iannuzzi,D,37.3,Texas,26,False,False,95937,95937
+791,Michael Cloud,R,63.1,Texas,27,True,True,1014427,829748
+792,Ricardo De,D,34.9,Texas,27,False,False,312096,312096
+793,Henry Cuellar,D,58.3,Texas,28,True,True,2655317,3650848
+794,Sandra Whitten,R,39.0,Texas,28,False,False,24760,27354
+795,Sylvia Garcia,D,71.1,Texas,29,True,True,818984,758382
+796,Jaimy Blanco,R,27.4,Texas,29,False,False,4378,0
+797,Eddie Bernice,D,77.5,Texas,30,True,True,589096,494547
+798,Tre Pennie,R,18.4,Texas,30,False,False,311109,305446
+799,John Carter,R,53.4,Texas,31,True,True,2160187,2214487
+800,Donna Imam,D,44.3,Texas,31,False,False,1035222,1035272
+801,Colin Allred,D,52.0,Texas,32,True,True,5667725,5611747
+802,Genevieve Collins,R,45.9,Texas,32,False,False,5923081,5915256
+803,Jason Sigmon,I,0.7,Texas,32,False,False,11791,11651
+804,Marc Veasey,D,66.8,Texas,33,True,True,1621929,1613446
+805,Fabian Cordova,R,25.2,Texas,33,False,False,36692,25585
+806,Filemon Vela,D,55.4,Texas,34,True,True,983026,1024180
+807,Rey Gonzalez,R,41.8,Texas,34,False,False,37118,37446
+808,Lloyd Doggett,D,65.4,Texas,35,True,True,1336576,424804
+809,Jennifer Sharon,R,30.0,Texas,35,False,False,19011,14442
+810,Jason Mata,I,1.9,Texas,35,False,False,2632,2632
+811,Brian Babin,R,73.6,Texas,36,True,True,1345351,1297185
+812,Brandon Rashad,D,24.3,Texas,36,False,False,21714,12278
+813,Blake Moore,R,69.6,Utah,1,False,True,844377,816015
+814,Darren Parry,D,30.5,Utah,1,False,False,41218,40904
+815,Chris Stewart,R,59.0,Utah,2,True,True,835139,812462
+816,John Kael,D,36.6,Utah,2,False,False,344774,306872
+817,Joe Jarvis,3,0.0,Utah,2,False,False,22989,22989
+818,John Curtis,R,68.8,Utah,3,True,True,874311,687265
+819,Devin Thorpe,D,26.8,Utah,3,False,False,191412,190200
+820,Thomas G.,3,2.0,Utah,3,False,False,5516,5516
+821,Russel Fugal,I,0.0,Utah,3,False,False,393,346
+822,Ben McAdams,D,46.7,Utah,4,True,False,5613542,5555591
+823,Burgess Owens,R,47.7,Utah,4,False,True,5129475,5049146
+824,Jonia Broderick,3,2.1,Utah,4,False,False,21394,21265
+825,Peter Welch,D,64.4,Vermont,1,True,True,847320,865252
+826,Rob Wittman,R,58.5,Virginia,1,True,True,1969785,2140375
+827,Qasim Rashid,D,41.7,Virginia,1,False,False,1559108,1559108
+828,Elaine Luria,D,51.6,Virginia,2,True,True,6522276,6387474
+829,Scott Taylor,R,45.8,Virginia,2,False,False,2452292,2446410
+830,Bobby Scott,D,68.4,Virginia,3,True,True,873126,832419
+831,John Collick,R,31.4,Virginia,3,False,False,167146,165080
+832,Donald McEachin,D,61.6,Virginia,4,True,True,961412,963788
+833,Leon Benjamin,R,38.2,Virginia,4,False,False,545354,523429
+834,Cameron Webb,D,47.3,Virginia,5,False,False,5755917,5750924
+835,Bob Good,R,52.4,Virginia,5,False,True,1373867,1323530
+836,Ben Cline,R,64.6,Virginia,6,True,True,892955,672928
+837,Nicholas Betts,D,35.3,Virginia,6,False,False,56190,54205
+838,Abigail Spanberger,D,50.8,Virginia,7,True,True,8387680,7852213
+839,Nick Freitas,R,49.0,Virginia,7,False,False,3629431,3600108
+840,Don Beyer,D,75.8,Virginia,8,True,True,1729482,2071906
+841,Jeff Jordan,R,24.0,Virginia,8,False,False,96035,96035
+842,Heerak Christian,I,0.0,Virginia,8,False,False,2036,1921
+843,Morgan Griffith,R,94.0,Virginia,9,True,True,873612,463916
+844,Jennifer Wexton,D,56.5,Virginia,10,True,True,3855331,1772250
+845,Aliscia Andrews,R,43.4,Virginia,10,False,False,1567598,1413145
+846,Gerry Connolly,D,71.4,Virginia,11,True,True,1998592,1811776
+847,Manga Anantatmula,R,28.3,Virginia,11,False,False,282152,268326
+848,Stevan Porter,L,0.0,Virginia,11,False,False,533,1316
+849,Suzan DelBene,D,58.6,Washington,1,True,True,2182985,1897162
+850,Jeffrey Beeler,R,41.3,Washington,1,False,False,61970,62279
+851,Rick Larsen,D,63.2,Washington,2,True,True,1275127,1219489
+852,Tim Hazelo,R,36.6,Washington,2,False,False,49478,49322
+853,Jaime Herrera,R,56.4,Washington,3,True,True,4566383,4540148
+854,Carolyn Long,D,43.4,Washington,3,False,False,4130540,4142685
+855,Dan Newhouse,R,66.3,Washington,4,True,True,1173464,991174
+856,Doug McKinley,D,33.5,Washington,4,False,False,57666,54227
+857,Cathy McMorris,R,60.9,Washington,5,True,True,4349448,3432572
+858,Dave Wilson,D,38.9,Washington,5,False,False,109636,109636
+859,Derek Kilmer,D,59.4,Washington,6,True,True,2524026,2531111
+860,Elizabeth Kreiselmaier,R,40.4,Washington,6,False,False,156123,145108
+861,Pramila Jayapal,D,83.0,Washington,7,True,True,2630000,1530626
+862,Craig Keller,R,16.7,Washington,7,False,False,2904,3703
+863,Kim Schrier,D,51.7,Washington,8,True,True,5422491,3774398
+864,Jesse Jensen,R,48.1,Washington,8,False,False,852396,842269
+865,Adam Smith,D,74.2,Washington,9,True,True,1324761,930710
+866,Doug Basler,R,25.7,Washington,9,False,False,22536,18328
+867,Marilyn Strickland,D,49.6,Washington,10,False,True,1812659,1780633
+868,Beth Doglio,D,35.7,Washington,10,False,False,1477678,1477678
+869,David McKinley,R,69.0,West Virginia,1,True,True,1092609,1085864
+870,Natalie Ms.,D,31.0,West Virginia,1,False,False,81032,81881
+871,Alex Mooney,R,63.1,West Virginia,2,True,True,2155978,864001
+872,Catherine Kunkel,D,36.9,West Virginia,2,False,False,641567,641567
+873,Carol Miller,R,71.3,West Virginia,3,True,True,869210,720796
+874,Hilary Turner,D,28.7,West Virginia,3,False,False,99214,98769
+875,Belinda Fox-Spencer,I,0.0,West Virginia,3,False,False,5207,5207
+876,Bryan Steil,R,59.4,Wisconsin,1,True,True,3500849,3151701
+877,Roger Polack,D,40.7,Wisconsin,1,False,False,536228,526431
+878,Mark Pocan,D,69.7,Wisconsin,2,True,True,1290582,1014628
+879,Peter Theron,R,30.3,Wisconsin,2,False,False,35753,33977
+880,Ron Kind,D,51.4,Wisconsin,3,True,True,2989262,4435403
+881,Derrick Van,R,48.6,Wisconsin,3,False,False,1962443,1948639
+882,Gwen Moore,D,74.7,Wisconsin,4,True,True,1183995,1166739
+883,Scott Fitzgerald,R,60.2,Wisconsin,5,False,True,1155721,968406
+884,Tom Palzewicz,D,39.9,Wisconsin,5,False,False,370392,371799
+885,Glenn Grothman,R,59.3,Wisconsin,6,True,True,1815756,1736659
+886,Jessica King,D,40.7,Wisconsin,6,False,False,287753,245788
+887,Tom Tiffany,R,60.8,Wisconsin,7,True,True,2637459,2514740
+888,Tricia Zunker,D,39.2,Wisconsin,7,False,False,1261957,1232690
+889,Mike Gallagher,R,64.0,Wisconsin,8,True,True,3202905,2841801
+890,Amanda Stuck,D,36.0,Wisconsin,8,False,False,416978,399916
+891,Liz Cheney,R,68.6,Wyoming,1,True,True,3003883,3060167
+892,Lynnette Grey,D,24.6,Wyoming,1,False,False,134597,132235
+893,Nikema Williams,D,85.2,Georgia,5,False,True,553964,362801
+894,Angela Stanton,R,14.9,Georgia,5,False,False,305279,301338
